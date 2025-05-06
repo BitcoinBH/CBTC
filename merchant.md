@@ -17,6 +17,8 @@
 - **payment:lightning_contactless:** yes
 - **payment:onchain:** yes
 
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12588945794) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12588945794) 
 
 ## LG calçados
 **Type:** node
@@ -24,7 +26,8 @@
 **Coordinates:** -19.8430171, -43.9191272
 **Address:** Avenida Saramenha, Belo Horizonte
 **Details:**
-- **CBTC:** BitcoinBH
+
+**PBTC:** ![PBTC](https://raw.githubusercontent.com/UAIBIT/PBTC/refs/heads/main/LGCalcados.jpg)- **CBTC:** BitcoinBH
 - **OBTC:** UAIBIT
 - **check_date:** 2025-04-17
 - **currency:BRL:** yes
@@ -37,7 +40,8 @@
 - **phone:** +55 31 99258 7346
 - **shop:** shoes
 
-**PBTC:** ![PBTC](https://raw.githubusercontent.com/UAIBIT/PBTC/refs/heads/main/LGCalcados.jpg)
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12618816495) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12618816495) 
 
 ## BRAVE MEN'S
 **Type:** node
@@ -65,6 +69,8 @@
 - **shop:** hairdresser
 - **website:** https://booksy.com/pt-br/137432_barbearia-brave-mens_barbearias_459592_belo-horizonte
 
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12644175177) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12644175177) 
 
 ## ZACAR
 **Type:** node
@@ -88,4 +94,6 @@
 - **shop:** car_repair
 - **survey:date:** 2025-04-11
 
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12747739338) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12747739338) 
 
